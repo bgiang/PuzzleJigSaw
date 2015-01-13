@@ -1,0 +1,17 @@
+
+Site Template -  http://themeforest.net/item/themekit-modern-ui-kits-for-apps-websites/6767145
+
+Logo - https://www.flickr.com/photos/24293932@N00/2920943842/sizes/o/
+
+How to screencast - http://www.labnol.org/software/record-android-screencast/4929/
+
+Draggable image ideas - https://github.com/bravelittlescientist/android-jigsaw-puzzle
+
+Share project between group members - bitbucket.org
+
+Android basics - https://umd.coursera.org/cmsc436-001
+
+Multiplayer backend - 	http://docs.aws.amazon.com/AWSAndroidSDK/latest/javadoc/
+			https://aws.amazon.com/articles/3002109349624271
+			http://commons.apache.org/proper/commons-lang/apidocs/org/apache/			commons/lang3/RandomStringUtils.html
+			http://commons.apache.org/proper/commons-io/apidocs/org/apache/				commons/io/IOUtils.html

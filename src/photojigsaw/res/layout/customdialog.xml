@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <NumberPicker
+        android:id="@+id/puzzlesize"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/layetext"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="10dp" />
+
+    <NumberPicker
+        android:id="@+id/layer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/layetext"
+        android:layout_alignTop="@+id/puzzlesize" />
+
+    <TextView
+        android:id="@+id/puzzletext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/puzzlesize"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        android:text="Select Size:" />
+
+    <TextView
+        android:id="@+id/layetext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/puzzletext"
+        android:layout_alignBottom="@+id/puzzletext"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="35dp"
+        android:gravity="right"
+        android:text="# of layers:" />
+
+</RelativeLayout>
